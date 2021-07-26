@@ -41,3 +41,9 @@ body {
 	outline: none;
 	cursor: pointer;
 }
+
+.btn:hover {
+	background-color: #222;
+	color: #ffffff;
+	transition: all 0.275s ease-in;
+}
