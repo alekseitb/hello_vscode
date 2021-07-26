@@ -5,7 +5,19 @@
 }
 
 body {
-	hiight 100vh;
+	height: 100vh;
 	display: flex;
 	justify-content: center;
+	align-items: center;
+	background-color: #f1f5f8;
+}
+
+.container h2 {
+	background-color: #222;
+	padding: 20px;
+	border-radius: 10px;
+	color: #ffffff;
+	font-size: 32px;
+	margin-bottom: 24px;
+
 }
